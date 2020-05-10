@@ -1,2 +1,2 @@
-# odoo-public
-This repository Contains Free and Public addons for Odoo Community Version
+# Odoo_Public
+This repository Contains Free addons for Odoo Community Version
